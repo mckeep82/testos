@@ -3,7 +3,7 @@
 
 void main() {
 	clear_terminal();
-	print_string("$>");
+	print_string("c:/>");
 	unsigned char byte;
 	while (1) {
 		while (byte = scan()) {
